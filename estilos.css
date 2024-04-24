@@ -289,9 +289,9 @@ html{
 
 .skills .skill .NetCoreV8{
     width: 0%;
-    animation: 2s CSharp forwards;
+    animation: 2s NetCoreV8 forwards;
 }
-@keyframes CSharp {
+@keyframes NetCoreV8 {
     0%{width: 0%;}
     100%{width: 90%;}
 }

@@ -275,7 +275,7 @@ html{
 }
 @keyframes javascript {
     0%{width: 0%;}
-    100%{width: 75%;}
+    100%{width: 87%;}
 }
 
 .skills .skill .CSharp{
@@ -284,7 +284,16 @@ html{
 }
 @keyframes CSharp {
     0%{width: 0%;}
-    100%{width: 60%;}
+    100%{width: 85%;}
+}
+
+.skills .skill .NetCoreV8{
+    width: 0%;
+    animation: 2s CSharp forwards;
+}
+@keyframes CSharp {
+    0%{width: 0%;}
+    100%{width: 90%;}
 }
 
 .skills .skill .Java{
@@ -293,7 +302,7 @@ html{
 }
 @keyframes Java {
     0%{width: 0%;}
-    100%{width: 60%;}
+    100%{width: 84%;}
 }
 
 .skills .skill .HtmlCss{
@@ -302,7 +311,7 @@ html{
 }
 @keyframes HtmlCss {
     0%{width: 0%;}
-    100%{width: 55%;}
+    100%{width: 75%;}
 }
 
 .skills .skill .Git{
@@ -311,7 +320,7 @@ html{
 }
 @keyframes Git {
     0%{width: 0%;}
-    100%{width: 55%;}
+    100%{width: 80%;}
 }
 
 .skills .skill .comunicacion{

@@ -350,14 +350,6 @@ html{
     100%{width: 90%;}
 }
 
-.skills .skill .proyect{
-    width: 0%;
-    animation: 2s proyect forwards;
-}
-@keyframes proyect {
-    0%{width: 0%;}
-    100%{width: 94%;}
-}
 /* SECCION CURRICULUM */
 .curriculum{
     background-color: #1e2326;

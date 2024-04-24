@@ -23,14 +23,13 @@ function efectoHabilidades(){
         let habilidades = document.getElementsByClassName("progreso");
         habilidades[0].classList.add("javascript");
         habilidades[1].classList.add("CSharp");
+        habilidades[1].classList.add("NetCoreV8");
         habilidades[2].classList.add("Java");
-        habilidades[3].classList.add("HtmlCss");
         habilidades[4].classList.add("Git");
         habilidades[5].classList.add("comunicacion");
         habilidades[6].classList.add("trabajo");
         habilidades[7].classList.add("creatividad");
         habilidades[8].classList.add("dedicacion");
-        habilidades[9].classList.add("proyect");
     }
 }
 

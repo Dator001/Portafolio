@@ -12,7 +12,7 @@ Abre `index.html` en el navegador o sirve esta carpeta con `python -m http.serve
 - `estilos.css`: paleta, tipografía y diseño adaptable.
 - `script.js`: menú móvil, sección activa y año del pie.
 - `assets/David-Torres-CV.pdf`: CV descargable.
-- `Img/hero.png`: fotografía original. Se conservan las demás imágenes originales.
+- `Img/david-torres.jpeg`: fotografía actual a color. Se conservan las demás imágenes originales.
 
 La experiencia y fechas corresponden al CV facilitado en septiembre de 2026. EPIK figura hasta septiembre de 2026; no se presupone un cargo vigente ni disponibilidad laboral. Las áreas de aporte describen experiencia profesional, sin inventar proyectos públicos ni métricas.
 
@@ -25,3 +25,4 @@ Sube los archivos al repositorio y configura Settings → Pages → Deploy from 
 ## Revisión
 
 Comprueba navegación y menú en móvil, descarga del CV, enlaces de contacto, ausencia de desbordamiento horizontal y navegación por teclado. El diseño respeta la preferencia de movimiento reducido.
+
